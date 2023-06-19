@@ -1,0 +1,7 @@
+Comando:
+
+ssh -i clave.pem diegoaca60@20.77.67.197
+
+Contraseña:
+
+81828384858687Aca
